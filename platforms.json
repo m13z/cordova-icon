@@ -23,6 +23,9 @@
         ],
         "splashPath": "$PROJECT_NAME/Resources/splash",
         "splashAssets" : [
+          { "name" : "Default-Landscape~iphone6plus.png",    "width" : 2208,  "height" : 1242 },
+          { "name" : "Default-Portrait~iphone6plus.png",    "width" : 1242,  "height" : 2208 },
+          { "name" : "Default-Portrait~iphone6.png",    "width" : 750,  "height" : 1334 },
           { "name" : "Default-568h@2x~iphone.png",    "width" : 640,  "height" : 1136 },
           { "name" : "Default-Landscape@2x~ipad.png", "width" : 2048, "height" : 1496 },
           { "name" : "Default-Landscape~ipad.png",    "width" : 1024, "height" : 768  },
